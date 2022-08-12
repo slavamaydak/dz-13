@@ -1,0 +1,124 @@
+.blok {
+    margin: 0px;
+    padding-left: 380px;
+}
+
+.lic {
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: "Roboto Slab";
+    padding: 15px 30px 15px 30px;
+    font-size: 19px;
+    background-color: rgb(208, 160, 252);
+    margin: 0px;
+}
+
+.lic:hover {
+    background-color: rgb(155, 49, 255);
+}
+
+.lik {
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: "Roboto Slab";
+    padding: 15px 30px 15px 30px;
+    font-size: 19px;
+    background-color: rgb(155, 49, 255);
+    margin: 0px;
+}
+
+
+
+
+
+.sidenav {
+    height: 100%; 
+    width: 180px; 
+    position: fixed; 
+    z-index: 1; 
+    top: 0; 
+    left: 0;
+    background-color: rgb(208, 160, 252); 
+    overflow-x: hidden; 
+    padding-top: 20px;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #ffffff;
+    display: block;
+    margin-top: 20px;
+    bottom: 2px;
+}
+
+.sidenav a:hover {
+    background-color: rgb(155, 49, 255);
+}
+
+
+
+
+.ff {
+    width: 250px;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+}
+
+.ss {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 5px 0px 180px ;
+    gap: 0px 30px;
+    
+}
+
+.oo {
+    width: 250px;
+    height: 280px;
+}
+
+.uu {
+    font-size: 20px;
+    font-family: "Merriweather";
+    text-align: center;
+}
+
+.ww {
+    font-size: 13px;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.tt {
+    text-align: center;
+    font-size: 25px;
+    font-family: "Merriweather";
+}
+
+.qq {
+    font-size: 17px;
+    font-family: "Roboto";
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    background-color: rgb(167, 225, 140);
+    text-align: center;
+    padding: 18px;
+    margin: 13px 0px 0px 0px;
+}
+
+.jvc {
+    text-align: center;
+    font-size: 25px;
+    font-family: "Merriweather";
+}
+
+.ghy {
+    text-align: center;
+    font-size: 25px;
+    font-family: "Merriweather";
+}
+
+
